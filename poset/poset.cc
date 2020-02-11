@@ -1,3 +1,5 @@
+// Authors: Piotr Jasinski and Alicja Ziarko
+
 #include "poset.h"
 #include <unordered_map>
 #include <unordered_set>
