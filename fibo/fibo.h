@@ -1,5 +1,6 @@
 /** @file
  * @brief Fibo number interface.
+ * @authors Piotr Jasinski and Antoni Zewierzejew
  *
  * Class representing big-nums with Zeckendorf representation and helper functions.
  */
