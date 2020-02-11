@@ -1,3 +1,5 @@
+// Authors: Piotr Jasinski and Andrzej Malek
+
 #ifndef INSERTION_ORDERED_MAP_H
 #define INSERTION_ORDERED_MAP_H
 
