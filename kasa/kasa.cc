@@ -1,3 +1,5 @@
+// Autorzy: Piotr Jasinski i Pawel Pawlik
+
 #include <iostream>
 #include <map>
 #include <regex>
