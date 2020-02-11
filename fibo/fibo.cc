@@ -1,5 +1,6 @@
 /** @file
  * @brief Fibo number implementation.
+ * @authors Piotr Jasinski and Antoni Zewierzejew
  */
 
 #include "fibo.h"
