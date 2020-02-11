@@ -1,3 +1,5 @@
+// Authors: Damian Chanko and Piotr Jasinski
+
 #ifndef FIBIN_H
 #define FIBIN_H
 
