@@ -1,3 +1,5 @@
+// Authors: Piotr Jasinski and Alicja Ziarko
+
 #ifndef POSET_H
 #define POSET_H
 
