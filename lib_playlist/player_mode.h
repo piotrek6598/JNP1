@@ -19,13 +19,13 @@ public:
 std::shared_ptr<PlayerMode> createSequenceMode();
 
 /*
- * Zwraca losowy sposób odtwarzania z utworzonym obiektem
- * std::default_random_engine z zadanym ziarnem.
+ * Zwraca sposób odtwarzania nieparzyste/parzyste.
  */
 std::shared_ptr<PlayerMode> createOddEvenMode();
 
 /*
- * Zwraca sposób odtwarzania nieparzyste/parzyste.
+ * Zwraca losowy sposób odtwarzania z utworzonym obiektem
+ * std::default_random_engine z zadanym ziarnem.
  */
 std::shared_ptr<PlayerMode> createShuffleMode(size_t seed);
 
